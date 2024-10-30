@@ -1,4 +1,4 @@
-package com.example.atiko;
+package com.example.Atiko;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
